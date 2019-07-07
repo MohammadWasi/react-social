@@ -2,5 +2,6 @@
 
 
 {
-    "mongoURI": "mongodb+srv://real123:realmadrid1.1@devcon-cjo1a.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://real123:realmadrid1.1@devcon-cjo1a.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecretToken"
 }
